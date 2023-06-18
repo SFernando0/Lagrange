@@ -36,8 +36,8 @@ Con el apoyo de
 
 
 ## Centro de Enseñanza Tecnica Industrial
-  Ingenieria Mecatronica
-  Programacion avanzada
+    Ingenieria Mecatronica //
+    Programacion avanzada
 
 ![image](https://github.com/SFernando0/Lagrange/assets/136877337/5205ec8b-02b8-43f0-a66b-bb6ca0cf28f4)
 
