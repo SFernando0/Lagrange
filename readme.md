@@ -9,11 +9,13 @@ El metodo numerico Interpolacion de Lagrange ayuda a resolver aproximaciones de 
 ## Dependencias
 
 
-## Compilar
+## Funciones para el programa
 
-Para compilar seguir el siguiente comando
+Funciones basicas del Make
 
-> make run
+> make // Para compilar el archivo
+> make run //Para ejecutar el archivo
+> make clean // Para eliminar los archivo .exe
 
 ## Licencia
 Elegir entre una u otra licencia:
@@ -33,5 +35,10 @@ Con el apoyo de
 ## Donaciones 
 
 
-## Colaborar
+## Centro de Enseñanza Tecnica Industrial
+Ing. Mecatronica
+Programacion avanzada
+
+![image](https://github.com/SFernando0/Lagrange/assets/136877337/5205ec8b-02b8-43f0-a66b-bb6ca0cf28f4)
+
 
