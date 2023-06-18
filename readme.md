@@ -4,7 +4,7 @@ Actualizacion de headers y agregacion de una libreria externa "ncurses"
 
 ## Introduccion
 
-El metodo numerico Interpolacion de Lagrange ayuda a resolver de manera practica.
+El metodo numerico Interpolacion de Lagrange ayuda a resolver aproximaciones de raices de manera practica.
 
 ## Dependencias
 
