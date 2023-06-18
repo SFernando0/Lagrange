@@ -23,7 +23,9 @@ link https://packages.msys2.org/package/mingw-w64-x86_64-ncurses?repo=mingw64
 Funciones basicas del Make
 
 > make // Para compilar el archivo
+
 > make run //Para ejecutar el archivo
+
 > make clean // Para eliminar los archivo .exe
 
 ## Licencia
