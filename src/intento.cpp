@@ -1,9 +1,10 @@
 #include <iostream>
 #include <cmath>
 #include <windows.h>
-#include <ncurses.h>
+#include <ncurses/ncurses.h>
 #include "funciones.hpp"
 #include "LagrangeInterpolacion.hpp"
+using namespace std;
 
 int main()
 {
@@ -13,11 +14,16 @@ int main()
     int tamanoTabla;
 
     pintarTitulo();
-    printw("Hello world!");
-    refresh();
-    getch();
     initscr();
+
+    printw("Hello world!");
+    
+    refresh();
+
+    getch();
+
     endwin();
+
     std::cout << "Ingrese el tamano de la tabla: ";
     std::cin >> tamanoTabla;
 
