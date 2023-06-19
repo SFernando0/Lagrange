@@ -14,16 +14,6 @@ int main()
     int tamanoTabla;
 
     pintarTitulo();
-    initscr();
-
-    printw("Hello world!");
-    
-    refresh();
-
-    getch();
-
-    endwin();
-
     std::cout << "Ingrese el tamano de la tabla: ";
     std::cin >> tamanoTabla;
 
