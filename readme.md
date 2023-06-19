@@ -8,18 +8,29 @@ El metodo numerico Interpolacion de Lagrange ayuda a resolver aproximaciones de 
 
 ## Dependencias
 
+Este proyecto tiene las siguientes dependencias:
 
-## Compilar
+Biblioteca ncurses
+#include <ncurses/ncurses.h>
 
-Para compilar seguir el siguiente comando
+desde MSYS2 - MINGW64 Shell
+para instalar la libreria:
+pacman -S mingw-w64-x86_64-ncurses
 
-> make run
+link https://packages.msys2.org/package/mingw-w64-x86_64-ncurses?repo=mingw64
+## Funciones para el programa
+
+Funciones basicas del Make
+
+> make // Para compilar el archivo
+
+> make run //Para ejecutar el archivo
+
+> make clean // Para eliminar los archivo .exe
 
 ## Licencia
-Elegir entre una u otra licencia:
-- Licencia BSD - Libre alvedrio
-- Licencia GPT 3 - Libre por siempre
-- Cualquier otra a eleccion.
+
+- Licencia BSD 
 
 ## Desarrolladores 
 
@@ -33,5 +44,10 @@ Con el apoyo de
 ## Donaciones 
 
 
-## Colaborar
+## Centro de Enseñanza Tecnica Industrial
+    Ingenieria Mecatronica //
+    Programacion avanzada
+
+![image](https://github.com/SFernando0/Lagrange/assets/136877337/5205ec8b-02b8-43f0-a66b-bb6ca0cf28f4)
+
 
