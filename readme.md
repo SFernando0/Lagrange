@@ -34,7 +34,8 @@ Funciones basicas del Make
 
 ## Desarrolladores 
 
-Este proyecto es ideado y desarrallodado por 
+Este proyecto es ideado y desarrallod
+o por 
 
 - Fernando Soto Oregon
 
